@@ -44,8 +44,8 @@
 </head>
 <body>
     <div class="valentine-box">
-        <h1>Salut Fleur!</h1>
-        <p>Veux-tu être ma Valentine?</p>
+        <h1>Coucou Fleur:)</h1>
+        <p>Accepterais-tu d'être ma Valentine?</p>
         <button class="button" onclick="showVideo()">Oui</button>
         <button class="button" onclick="alert('Peut-être une autre fois alors...')">Non</button>
     </div>
